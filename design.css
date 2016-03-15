@@ -231,7 +231,6 @@ ul {
 	border-width: 0;
 	margin: auto;
 	display: block;
-	width: 500px;
 }
 
 #results td{
@@ -244,7 +243,7 @@ ul {
 
 #results th {
 	background-color: lavender;
-	width: 50px;
+	width: 60px;
 	padding-left: 10px;
 	padding-right: 10px;
 }
