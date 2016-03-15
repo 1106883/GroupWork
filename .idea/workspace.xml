@@ -46,7 +46,7 @@
         <entry file="file://$USER_HOME$/PhpstormProjects/Group/design.css">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.41379312">
-              <caret line="233" column="17" selection-start-line="233" selection-start-column="17" selection-end-line="233" selection-end-column="17" />
+              <caret line="233" column="12" selection-start-line="233" selection-start-column="12" selection-end-line="233" selection-end-column="12" />
               <folding />
             </state>
           </provider>
@@ -411,7 +411,13 @@
       <option name="project" value="LOCAL" />
       <updated>1458038733938</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="h">
+      <created>1458038835265</created>
+      <option name="number" value="00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1458038835265</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -542,7 +548,7 @@
     <entry file="file://$USER_HOME$/PhpstormProjects/Group/design.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.41379312">
-          <caret line="233" column="17" selection-start-line="233" selection-start-column="17" selection-end-line="233" selection-end-column="17" />
+          <caret line="233" column="12" selection-start-line="233" selection-start-column="12" selection-end-line="233" selection-end-column="12" />
           <folding />
         </state>
       </provider>
