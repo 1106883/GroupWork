@@ -300,10 +300,6 @@ ul {
 	position: relative;
 }
 
-#button {
-	float-left: auto;
-	float-right: auto;
-}
 
 #flog {
 	float: left;
@@ -315,6 +311,11 @@ ul {
 
 #logins {
 	margin-top: 20px;
+	color: #808080;
+	border-radius: 5px;
+}
+
+#logins legend{
 	color: #808080;
 }
 
