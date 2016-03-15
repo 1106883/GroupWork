@@ -325,11 +325,8 @@ strong {
 }
 
 #button {
-	display: inline-block;
-	position: relative;
-	right: -150px;
-	float: right;
-	margin-top: 20px;
+	float-right: auto;
+	float-left: auto;
 	border-top: solid 1px;
 	border-bottom: solid 1px;
 	font-family: Oswald, sans-serif;
