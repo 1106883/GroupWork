@@ -467,48 +467,9 @@ ul {
 	color: #121212;
 }
 
-#search {
-	line-height: 159px;
-	position: absolute;
-	top: 0;
-	right: 35px;
-	height: 159px;
-}
 
-#search input.form-submit {
-	border: 0;
-	border-top: solid 1px #FC403C;
-	border-bottom: solid 1px #B60000;
-	font-family: Oswald, sans-serif;
-	margin-left: 1em;
-	color: #FFFFFF;
-	padding: 2px 8px 3px 8px;
-	background: #CF1302;
-	text-shadow: 0px 1px 1px #590200;
-	text-transform: lowercase;
-	border-radius: 5px;
-}
 
-#search input.form-text {
-	background: #5C4D37;
-	border: 0;
-	border-bottom: solid 1px #A89983;
-	padding: 5px 8px 5px 8px;
-	color: #C4B8A8;
-	border-radius: 5px;
-}
-
-#sidebar {
-	padding: 0;
-	width: 250px;
-	margin: 0 0 0 660px;
-}
-
-#wrapper {
-	margin: 90px auto 0 auto;
-	width: 980px;
-	position: relative;
-}
+/* Home Page Sliding image CSS */
 
 @keyframes slidy {
 	0% { left: 0%; }
@@ -519,8 +480,6 @@ ul {
 	90% { left: -200%; }
 	100% { left: 0%; }
 }
-
-/*body { margin: 0; }*/
 
 div#slider {
 	overflow: hidden;
