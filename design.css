@@ -312,10 +312,12 @@ ul {
 #logins {
 	margin-top: 20px;
 	color: #808080;
+}
+#loginf {
 	border-radius: 5px;
 }
 
-#logins.legend{
+#loginf legend{
 	color: #808080;
 }
 
