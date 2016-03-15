@@ -314,16 +314,15 @@ ul {
 	color: #808080;
 }
 
-#loginf {
-	border-style: inset;
-	background-color: lavender;
-	border-radius: 5px;
+strong {
 	color: #808080;
 }
 
-legend{
-	color: #adadad;
+#loginf {
+	border-style: solid;
+	color: #808080;
 }
+
 
 
 /* Home Page Sliding image CSS */
