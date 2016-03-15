@@ -315,7 +315,7 @@ ul {
 	border-radius: 5px;
 }
 
-#logins legend{
+#logins.legend{
 	color: #808080;
 }
 
