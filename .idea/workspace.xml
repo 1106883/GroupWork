@@ -42,11 +42,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="design.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="design.css" pinned="false" current-in-tab="false">
         <entry file="file://$USER_HOME$/PhpstormProjects/Group/design.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.21494253">
-              <caret line="224" column="4" selection-start-line="224" selection-start-column="4" selection-end-line="224" selection-end-column="37" />
+            <state vertical-scroll-proportion="-11.444445">
+              <caret line="224" column="36" selection-start-line="224" selection-start-column="29" selection-end-line="224" selection-end-column="36" />
               <folding />
             </state>
           </provider>
@@ -106,10 +106,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="results.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="results.php" pinned="false" current-in-tab="true">
         <entry file="file://$USER_HOME$/PhpstormProjects/Group/results.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-17.0">
+            <state vertical-scroll-proportion="0.5074627">
               <caret line="95" column="166" selection-start-line="95" selection-start-column="166" selection-end-line="95" selection-end-column="166" />
               <folding>
                 <marker date="1458038295500" expanded="true" signature="2814:2965" placeholder="SELECT * FRO..gameCollection..." />
@@ -399,7 +399,13 @@
       <option name="project" value="LOCAL" />
       <updated>1458038387211</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="h">
+      <created>1458038607403</created>
+      <option name="number" value="00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1458038607403</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -491,16 +497,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/PhpstormProjects/Group/register.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-15.038462">
-          <caret line="23" column="38" selection-start-line="23" selection-start-column="38" selection-end-line="23" selection-end-column="38" />
-          <folding>
-            <marker date="1458035086995" expanded="true" signature="2143:2273" placeholder="INSERT INTO ..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/PhpstormProjects/Group/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-15.846154">
@@ -517,21 +513,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/PhpstormProjects/Group/results.php">
+    <entry file="file://$USER_HOME$/PhpstormProjects/Group/design.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-17.0">
-          <caret line="95" column="166" selection-start-line="95" selection-start-column="166" selection-end-line="95" selection-end-column="166" />
+        <state vertical-scroll-proportion="-11.444445">
+          <caret line="224" column="36" selection-start-line="224" selection-start-column="29" selection-end-line="224" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PhpstormProjects/Group/register.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-15.038462">
+          <caret line="23" column="38" selection-start-line="23" selection-start-column="38" selection-end-line="23" selection-end-column="38" />
           <folding>
-            <marker date="1458038295500" expanded="true" signature="2814:2965" placeholder="SELECT * FRO..gameCollection..." />
+            <marker date="1458035086995" expanded="true" signature="2143:2273" placeholder="INSERT INTO ..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/PhpstormProjects/Group/design.css">
+    <entry file="file://$USER_HOME$/PhpstormProjects/Group/results.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.21494253">
-          <caret line="224" column="4" selection-start-line="224" selection-start-column="4" selection-end-line="224" selection-end-column="37" />
-          <folding />
+        <state vertical-scroll-proportion="0.5074627">
+          <caret line="95" column="166" selection-start-line="95" selection-start-column="166" selection-end-line="95" selection-end-column="166" />
+          <folding>
+            <marker date="1458038295500" expanded="true" signature="2814:2965" placeholder="SELECT * FRO..gameCollection..." />
+          </folding>
         </state>
       </provider>
     </entry>
