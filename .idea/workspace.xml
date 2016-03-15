@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="4c4ddd0c-893b-4ce1-98d1-7133528409a3" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$USER_HOME$/PhpstormProjects/Group/design.css" afterPath="$USER_HOME$/PhpstormProjects/Group/design.css" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/PhpstormProjects/Group/index.html" afterPath="$USER_HOME$/PhpstormProjects/Group/index.html" />
       <change type="MODIFICATION" beforePath="$USER_HOME$/PhpstormProjects/Group/.idea/workspace.xml" afterPath="$USER_HOME$/PhpstormProjects/Group/.idea/workspace.xml" />
     </list>
     <ignored path="GroupWork.iws" />
@@ -35,8 +36,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$USER_HOME$/PhpstormProjects/Group/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-14.538462">
-              <caret line="66" column="52" selection-start-line="66" selection-start-column="52" selection-end-line="66" selection-end-column="52" />
+            <state vertical-scroll-proportion="-21.73077">
+              <caret line="80" column="35" selection-start-line="80" selection-start-column="35" selection-end-line="80" selection-end-column="35" />
               <folding />
             </state>
           </provider>
@@ -45,8 +46,8 @@
       <file leaf-file-name="design.css" pinned="false" current-in-tab="true">
         <entry file="file://$USER_HOME$/PhpstormProjects/Group/design.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.37126437">
-              <caret line="328" column="21" selection-start-line="328" selection-start-column="21" selection-end-line="328" selection-end-column="21" />
+            <state vertical-scroll-proportion="0.44942528">
+              <caret line="323" column="16" selection-start-line="323" selection-start-column="16" selection-end-line="323" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -131,8 +132,8 @@
         <option value="$USER_HOME$/PhpstormProjects/Group/Register.html" />
         <option value="$USER_HOME$/PhpstormProjects/Group/register.php" />
         <option value="$USER_HOME$/PhpstormProjects/Group/Search.html" />
-        <option value="$USER_HOME$/PhpstormProjects/Group/index.html" />
         <option value="$USER_HOME$/PhpstormProjects/Group/design.css" />
+        <option value="$USER_HOME$/PhpstormProjects/Group/index.html" />
       </list>
     </option>
   </component>
@@ -344,7 +345,13 @@
       <option name="project" value="LOCAL" />
       <updated>1458037523144</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="h">
+      <created>1458037649818</created>
+      <option name="number" value="00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1458037649818</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -423,11 +430,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/PhpstormProjects/Group/controller.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/PhpstormProjects/Group/register.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-15.038462">
@@ -464,18 +466,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/PhpstormProjects/Group/controller.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$USER_HOME$/PhpstormProjects/Group/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-14.538462">
-          <caret line="66" column="52" selection-start-line="66" selection-start-column="52" selection-end-line="66" selection-end-column="52" />
+        <state vertical-scroll-proportion="-21.73077">
+          <caret line="80" column="35" selection-start-line="80" selection-start-column="35" selection-end-line="80" selection-end-column="35" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/PhpstormProjects/Group/design.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.37126437">
-          <caret line="328" column="21" selection-start-line="328" selection-start-column="21" selection-end-line="328" selection-end-column="21" />
+        <state vertical-scroll-proportion="0.44942528">
+          <caret line="323" column="16" selection-start-line="323" selection-start-column="16" selection-end-line="323" selection-end-column="16" />
           <folding />
         </state>
       </provider>

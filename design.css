@@ -314,10 +314,6 @@ ul {
 	color: #808080;
 }
 
-strong {
-	color: #808080;
-}
-
 #loginf {
 	border-style: solid;
 	border-radius: 5px;
@@ -325,6 +321,7 @@ strong {
 }
 
 #button {
+	width: 50px;
 	float-right: auto;
 	float-left: auto;
 	border-top: solid 1px;
