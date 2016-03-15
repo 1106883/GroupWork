@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4c4ddd0c-893b-4ce1-98d1-7133528409a3" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$USER_HOME$/PhpstormProjects/Group/design.css" afterPath="$USER_HOME$/PhpstormProjects/Group/design.css" />
       <change type="MODIFICATION" beforePath="$USER_HOME$/PhpstormProjects/Group/index.html" afterPath="$USER_HOME$/PhpstormProjects/Group/index.html" />
       <change type="MODIFICATION" beforePath="$USER_HOME$/PhpstormProjects/Group/.idea/workspace.xml" afterPath="$USER_HOME$/PhpstormProjects/Group/.idea/workspace.xml" />
     </list>
@@ -33,20 +32,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$USER_HOME$/PhpstormProjects/Group/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-21.73077">
-              <caret line="80" column="35" selection-start-line="80" selection-start-column="35" selection-end-line="80" selection-end-column="35" />
+            <state vertical-scroll-proportion="0.6096441">
+              <caret line="78" column="0" selection-start-line="78" selection-start-column="0" selection-end-line="78" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="design.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="design.css" pinned="false" current-in-tab="false">
         <entry file="file://$USER_HOME$/PhpstormProjects/Group/design.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.44942528">
+            <state vertical-scroll-proportion="-14.481482">
               <caret line="323" column="16" selection-start-line="323" selection-start-column="16" selection-end-line="323" selection-end-column="16" />
               <folding />
             </state>
@@ -351,7 +350,13 @@
       <option name="project" value="LOCAL" />
       <updated>1458037649818</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="h">
+      <created>1458037761630</created>
+      <option name="number" value="00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1458037761630</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -471,18 +476,18 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/PhpstormProjects/Group/index.html">
+    <entry file="file://$USER_HOME$/PhpstormProjects/Group/design.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-21.73077">
-          <caret line="80" column="35" selection-start-line="80" selection-start-column="35" selection-end-line="80" selection-end-column="35" />
+        <state vertical-scroll-proportion="-14.481482">
+          <caret line="323" column="16" selection-start-line="323" selection-start-column="16" selection-end-line="323" selection-end-column="16" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/PhpstormProjects/Group/design.css">
+    <entry file="file://$USER_HOME$/PhpstormProjects/Group/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.44942528">
-          <caret line="323" column="16" selection-start-line="323" selection-start-column="16" selection-end-line="323" selection-end-column="16" />
+        <state vertical-scroll-proportion="0.6096441">
+          <caret line="78" column="0" selection-start-line="78" selection-start-column="0" selection-end-line="78" selection-end-column="0" />
           <folding />
         </state>
       </provider>
