@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4c4ddd0c-893b-4ce1-98d1-7133528409a3" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$USER_HOME$/PhpstormProjects/Group/design.css" afterPath="$USER_HOME$/PhpstormProjects/Group/design.css" />
       <change type="MODIFICATION" beforePath="$USER_HOME$/PhpstormProjects/Group/index.html" afterPath="$USER_HOME$/PhpstormProjects/Group/index.html" />
       <change type="MODIFICATION" beforePath="$USER_HOME$/PhpstormProjects/Group/.idea/workspace.xml" afterPath="$USER_HOME$/PhpstormProjects/Group/.idea/workspace.xml" />
     </list>
@@ -33,20 +32,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$USER_HOME$/PhpstormProjects/Group/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="9.807693">
-              <caret line="48" column="19" selection-start-line="48" selection-start-column="19" selection-end-line="48" selection-end-column="19" />
+            <state vertical-scroll-proportion="0.6096441">
+              <caret line="36" column="61" selection-start-line="36" selection-start-column="61" selection-end-line="36" selection-end-column="61" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="design.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="design.css" pinned="false" current-in-tab="false">
         <entry file="file://$USER_HOME$/PhpstormProjects/Group/design.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.53103447">
+            <state vertical-scroll-proportion="-17.11111">
               <caret line="315" column="1" selection-start-line="315" selection-start-column="1" selection-end-line="315" selection-end-column="1" />
               <folding />
             </state>
@@ -56,8 +55,8 @@
       <file leaf-file-name="home.html" pinned="false" current-in-tab="false">
         <entry file="file://$USER_HOME$/PhpstormProjects/Group/home.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-19.615385">
-              <caret line="39" column="19" selection-start-line="39" selection-start-column="19" selection-end-line="39" selection-end-column="19" />
+            <state vertical-scroll-proportion="-17.0">
+              <caret line="35" column="154" selection-start-line="35" selection-start-column="29" selection-end-line="35" selection-end-column="154" />
               <folding />
             </state>
           </provider>
@@ -110,7 +109,7 @@
       <file leaf-file-name="results.php" pinned="false" current-in-tab="false">
         <entry file="file://$USER_HOME$/PhpstormProjects/Group/results.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="21.576923">
+            <state vertical-scroll-proportion="5.8846154">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding>
                 <marker date="1457585438000" expanded="true" signature="2813:2964" placeholder="SELECT * FRO..gameCollection..." />
@@ -132,8 +131,8 @@
         <option value="$USER_HOME$/PhpstormProjects/Group/Register.html" />
         <option value="$USER_HOME$/PhpstormProjects/Group/register.php" />
         <option value="$USER_HOME$/PhpstormProjects/Group/Search.html" />
-        <option value="$USER_HOME$/PhpstormProjects/Group/index.html" />
         <option value="$USER_HOME$/PhpstormProjects/Group/design.css" />
+        <option value="$USER_HOME$/PhpstormProjects/Group/index.html" />
       </list>
     </option>
   </component>
@@ -303,7 +302,13 @@
       <option name="project" value="LOCAL" />
       <updated>1458036417991</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="h">
+      <created>1458036508969</created>
+      <option name="number" value="00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1458036508969</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -364,14 +369,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/PhpstormProjects/Group/home.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-19.615385">
-          <caret line="39" column="19" selection-start-line="39" selection-start-column="19" selection-end-line="39" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/PhpstormProjects/Group/login.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-15.692307">
@@ -390,24 +387,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/PhpstormProjects/Group/Search.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-13.076923">
-          <caret line="23" column="38" selection-start-line="23" selection-start-column="38" selection-end-line="23" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/PhpstormProjects/Group/results.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="21.576923">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1457585438000" expanded="true" signature="2813:2964" placeholder="SELECT * FRO..gameCollection..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/PhpstormProjects/Group/controller.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -423,18 +402,44 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/PhpstormProjects/Group/index.html">
+    <entry file="file://$USER_HOME$/PhpstormProjects/Group/design.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="9.807693">
-          <caret line="48" column="19" selection-start-line="48" selection-start-column="19" selection-end-line="48" selection-end-column="19" />
+        <state vertical-scroll-proportion="-17.11111">
+          <caret line="315" column="1" selection-start-line="315" selection-start-column="1" selection-end-line="315" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/PhpstormProjects/Group/design.css">
+    <entry file="file://$USER_HOME$/PhpstormProjects/Group/Search.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.53103447">
-          <caret line="315" column="1" selection-start-line="315" selection-start-column="1" selection-end-line="315" selection-end-column="1" />
+        <state vertical-scroll-proportion="-13.076923">
+          <caret line="23" column="38" selection-start-line="23" selection-start-column="38" selection-end-line="23" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PhpstormProjects/Group/results.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="5.8846154">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1457585438000" expanded="true" signature="2813:2964" placeholder="SELECT * FRO..gameCollection..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PhpstormProjects/Group/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-17.0">
+          <caret line="35" column="154" selection-start-line="35" selection-start-column="29" selection-end-line="35" selection-end-column="154" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PhpstormProjects/Group/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6096441">
+          <caret line="36" column="61" selection-start-line="36" selection-start-column="61" selection-end-line="36" selection-end-column="61" />
           <folding />
         </state>
       </provider>
