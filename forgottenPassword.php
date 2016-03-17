@@ -52,6 +52,7 @@
                 $email = $_POST['pemail'];
 
                 $sql = "SELECT password FROM members WHERE studentID = '$stuno' AND email = '$email'";
+                $results = $conn->query($sql);
 
             if ($results->rowcount() == 0) {
                 echo "No members were found to match those details.<br />";

@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4c4ddd0c-893b-4ce1-98d1-7133528409a3" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/forgottenPassword.html" afterPath="$PROJECT_DIR$/forgottenPassword.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/forgottenPassword.php" afterPath="$PROJECT_DIR$/forgottenPassword.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -46,25 +45,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="forgottenPassword.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="forgottenPassword.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/forgottenPassword.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-20.423077">
-              <caret line="67" column="65" selection-start-line="67" selection-start-column="65" selection-end-line="67" selection-end-column="65" />
+            <state vertical-scroll-proportion="0.35591274">
+              <caret line="54" column="46" selection-start-line="54" selection-start-column="46" selection-end-line="54" selection-end-column="46" />
               <folding>
-                <marker date="1458211519355" expanded="true" signature="1976:2042" placeholder="SELECT passw..members..." />
-                <marker date="1458211519355" expanded="true" signature="1976:2052" placeholder="SELECT passw..members..." />
-                <marker date="1458211519355" expanded="true" signature="1976:2121" placeholder="SELECT * FRO..gameCollection..." />
-                <marker date="1458211519355" expanded="true" signature="2989:3078" placeholder="..." />
+                <marker date="1458211690409" expanded="true" signature="1976:2042" placeholder="SELECT passw..members..." />
+                <marker date="1458211690409" expanded="true" signature="1976:2052" placeholder="SELECT passw..members..." />
+                <marker date="1458211690409" expanded="true" signature="1976:2168" placeholder="SELECT * FRO..gameCollection..." />
+                <marker date="1458211690409" expanded="true" signature="3036:3125" placeholder="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="forgottenPassword.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="forgottenPassword.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/forgottenPassword.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.60505164">
+            <state vertical-scroll-proportion="-20.26923">
               <caret line="46" column="27" selection-start-line="46" selection-start-column="27" selection-end-line="46" selection-end-column="27" />
               <folding />
             </state>
@@ -128,8 +127,8 @@
       <file leaf-file-name="results.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/results.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.230769">
-              <caret line="77" column="112" selection-start-line="77" selection-start-column="26" selection-end-line="77" selection-end-column="112" />
+            <state vertical-scroll-proportion="-18.307692">
+              <caret line="79" column="52" selection-start-line="79" selection-start-column="20" selection-end-line="79" selection-end-column="52" />
               <folding>
                 <marker date="1458209719172" expanded="true" signature="2806:2957" placeholder="SELECT * FRO..gameCollection..." />
               </folding>
@@ -160,8 +159,8 @@
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/results.php" />
         <option value="$PROJECT_DIR$/design.css" />
-        <option value="$PROJECT_DIR$/forgottenPassword.php" />
         <option value="$PROJECT_DIR$/forgottenPassword.html" />
+        <option value="$PROJECT_DIR$/forgottenPassword.php" />
       </list>
     </option>
   </component>
@@ -277,12 +276,6 @@
       <created>1458034103505</created>
       <option name="number" value="Default" />
       <updated>1458034103505</updated>
-    </task>
-    <task id="LOCAL-00004" summary="h">
-      <created>1458034500783</created>
-      <option name="number" value="00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1458034500783</updated>
     </task>
     <task id="LOCAL-00005" summary="h">
       <created>1458035108099</created>
@@ -572,7 +565,13 @@
       <option name="project" value="LOCAL" />
       <updated>1458211337752</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="h">
+      <created>1458211523728</created>
+      <option name="number" value="00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1458211523728</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -747,26 +746,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/results.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.230769">
-          <caret line="77" column="112" selection-start-line="77" selection-start-column="26" selection-end-line="77" selection-end-column="112" />
-          <folding>
-            <marker date="1458209719172" expanded="true" signature="2806:2957" placeholder="SELECT * FRO..gameCollection..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/register.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.0">
-          <caret line="27" column="101" selection-start-line="27" selection-start-column="101" selection-end-line="27" selection-end-column="101" />
-          <folding>
-            <marker date="1458035086995" expanded="true" signature="2143:2273" placeholder="INSERT INTO ..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/design.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-24.037037">
@@ -783,24 +762,44 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/forgottenPassword.php">
+    <entry file="file://$PROJECT_DIR$/forgottenPassword.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-20.423077">
-          <caret line="67" column="65" selection-start-line="67" selection-start-column="65" selection-end-line="67" selection-end-column="65" />
+        <state vertical-scroll-proportion="-20.26923">
+          <caret line="46" column="27" selection-start-line="46" selection-start-column="27" selection-end-line="46" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/register.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0">
+          <caret line="27" column="101" selection-start-line="27" selection-start-column="101" selection-end-line="27" selection-end-column="101" />
           <folding>
-            <marker date="1458211519355" expanded="true" signature="1976:2042" placeholder="SELECT passw..members..." />
-            <marker date="1458211519355" expanded="true" signature="1976:2052" placeholder="SELECT passw..members..." />
-            <marker date="1458211519355" expanded="true" signature="1976:2121" placeholder="SELECT * FRO..gameCollection..." />
-            <marker date="1458211519355" expanded="true" signature="2989:3078" placeholder="..." />
+            <marker date="1458035086995" expanded="true" signature="2143:2273" placeholder="INSERT INTO ..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/forgottenPassword.html">
+    <entry file="file://$PROJECT_DIR$/results.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.60505164">
-          <caret line="46" column="27" selection-start-line="46" selection-start-column="27" selection-end-line="46" selection-end-column="27" />
-          <folding />
+        <state vertical-scroll-proportion="-18.307692">
+          <caret line="79" column="52" selection-start-line="79" selection-start-column="20" selection-end-line="79" selection-end-column="52" />
+          <folding>
+            <marker date="1458209719172" expanded="true" signature="2806:2957" placeholder="SELECT * FRO..gameCollection..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/forgottenPassword.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.35591274">
+          <caret line="54" column="46" selection-start-line="54" selection-start-column="46" selection-end-line="54" selection-end-column="46" />
+          <folding>
+            <marker date="1458211690409" expanded="true" signature="1976:2042" placeholder="SELECT passw..members..." />
+            <marker date="1458211690409" expanded="true" signature="1976:2052" placeholder="SELECT passw..members..." />
+            <marker date="1458211690409" expanded="true" signature="1976:2168" placeholder="SELECT * FRO..gameCollection..." />
+            <marker date="1458211690409" expanded="true" signature="3036:3125" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
