@@ -83,7 +83,8 @@
                         echo "no games found <br />";
                     } else {
 
-                        print "<table id='results'>\n";
+                        print "<div id='resultsdiv'>
+                        <table id='results'>\n";
                         echo "<th>Title</th><th>Platform</th><th>Genre</th><th>Year</th><th id='age'>Age Rating</th><th id='desc'>Description</th><th>Borrow</th>";
                         foreach ($results as $row) {
                             echo "<tr>";
@@ -95,7 +96,7 @@
                             echo "<td>" . $row["Description"] . "</td>";
                             echo "<td><form id='borrow' action='borrow.php' method='post'><input id='borrow' type='submit' name='Borrow' value='Borrow'></form></td>";
                         }
-                        print "</table>\n";
+                        print "</table></div>\n";
                     }
                 } catch (PDOException $e) {
                     echo "Query failed: " . $e->getMessage();
