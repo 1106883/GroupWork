@@ -33,7 +33,7 @@
     </div>
     <div id="page">
         <div id="content">
-            <table  style="width:300px" >
+            <div id='resultsdiv'>
                 <?php
 
                 //header("Location:results.html");
@@ -83,8 +83,7 @@
                         echo "no games found <br />";
                     } else {
 
-                        print "<div id='resultsdiv'>
-                        <table id='results'>\n";
+                        print "<table id='results'>\n";
                         echo "<th>Title</th><th>Platform</th><th>Genre</th><th>Year</th><th id='age'>Age Rating</th><th id='desc'>Description</th><th>Borrow</th>";
                         foreach ($results as $row) {
                             echo "<tr>";
@@ -96,7 +95,7 @@
                             echo "<td>" . $row["Description"] . "</td>";
                             echo "<td><form id='borrow' action='borrow.php' method='post'><input id='borrow' type='submit' name='Borrow' value='Borrow'></form></td>";
                         }
-                        print "</table></div>\n";
+                        print "</table>\n";
                     }
                 } catch (PDOException $e) {
                     echo "Query failed: " . $e->getMessage();
@@ -104,7 +103,7 @@
                 $conn = null;
 
                 ?>
-            </table>
+            </div>
         </div>
         <br class="clearfix" />
     </div>
