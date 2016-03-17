@@ -65,6 +65,7 @@
                     'X-Mailer: PHP/' . phpversion();
 
                 mail($to, $subject, $message, $headers);
+                echo "Please check your email for your password";
 
             }
 
