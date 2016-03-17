@@ -261,8 +261,9 @@ ul {
 }
 
 #resultsdiv {
-	width: 50%;
+	width: 70%;
 	margin: 0 auto;
+	padding: 0;
 }
 /*End of results table styling */
 
