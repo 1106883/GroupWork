@@ -259,6 +259,11 @@ ul {
 	border-color: lavender;
 	border-bottom-width: 0;
 }
+
+#resultsdiv {
+	width: 80%;
+	margin: 0 auto;
+}
 /*End of results table styling */
 
 /*Style for the advanced search page */
@@ -350,6 +355,7 @@ ul {
 	margin-right: 5px;
 }
 
+/* End of login field styling */
 
 /* Home Page Sliding image CSS */
 
@@ -380,3 +386,4 @@ div#slider figure {
 	font-size: 0;
 	animation: 40s slidy infinite;
 }
+/* End of Home Page Sliding image CSS
